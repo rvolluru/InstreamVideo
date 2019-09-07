@@ -1,0 +1,23 @@
+{
+  "name": "instreamvideo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "chrome-remote-interface": "^0.27.1",
+    "cookie-parser": "~1.4.3",
+    "csv-parse": "^4.3.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "hashmap": "^2.3.0",
+    "hashset": "0.0.6",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "parse-domain": "^2.1.7",
+    "pug": "2.0.0-beta11",
+    "puppeteer": "^1.14.0",
+    "puppeteer-core": "^1.14.0"
+  }
+}
