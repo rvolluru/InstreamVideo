@@ -8,7 +8,7 @@
   "dependencies": {
     "chrome-remote-interface": "^0.27.1",
     "cookie-parser": "~1.4.3",
-    "csv-parse": "^4.3.4",
+    "csv-parse": "^4.4.6",
     "debug": "~2.6.9",
     "express": "~4.16.0",
     "hashmap": "^2.3.0",
