@@ -16,7 +16,7 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "parse-domain": "^2.1.7",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "puppeteer": "^1.14.0",
     "puppeteer-core": "^1.14.0"
   }
